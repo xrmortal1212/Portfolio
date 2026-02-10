@@ -1,59 +1,93 @@
-# Portfolio
+# Hi there, I'm Raman Mukesh! 👋
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.2.
+### 🎨 Full-Stack Developer | Animator | Video Editor
+Based in **Karachi, Pakistan** 🇵🇰
 
-## Development server
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Turning%20Complex%20Problems%20into%20Simple%20Design&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Portfolio&descAlignY=55&descAlign=50)
 
-To start a local development server, run:
+---
 
-```bash
-ng serve
-```
+## 🚀 About Me
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+I am a passionate **Full-Stack Developer** and **Animator** with over **1.5+ years of experience**. I specialize in creating effective, visually driven websites and apps. From frontend design to backend logic, and even digital art animations, I love bringing ideas to life.
 
-## Code scaffolding
+- 🔭 I’m currently working on **Web Design & UI/UX**
+- 🌱 I’m currently learning **Advanced Python & Backend Architecture**
+- 🎨 I create digital art using **Adobe Animate & After Effects**
+- 💬 Ask me about **Laravel, GSAP, C#, and Material UI**
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+---
 
-```bash
-ng generate component component-name
-```
+## 🌐 **[Visit My Portfolio Website](https://xrmortal1212.github.io/Portfolio/)**
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Check out my live portfolio for a deeper dive into my work and animations!
 
-```bash
-ng generate --help
-```
+---
 
-## Building
+## 🛠️ Tech Stack & Tools
 
-To build the project run:
+**Languages & Frameworks:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
-```bash
-ng build
-```
+**Design & Animation:**
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Animate-FF0000?style=for-the-badge&logo=Adobe%20Animate&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+**Database:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
-## Running unit tests
+---
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+## 💻 Featured Projects
 
-```bash
-ng test
-```
+| Project | Description | Tech Used |
+| :--- | :--- | :--- |
+| **Historical Monuments** | A website showcasing hidden gems and historical sites. | `HTML` `CSS` `JS` |
+| **EntertainX** | An entertainment hub for Anime and movies. | `HTML` `CSS` `JS` `JSON` |
+| **WeatherApp** | Real-time weather forecasting tool using API. | `Weather API` `JS` |
+| **Pakistani With Bhoot** | Digital art and graphics animation showcase. | `Adobe Animate` `After Effects` |
 
-## Running end-to-end tests
+---
 
-For end-to-end (e2e) testing, run:
+## 📊 GitHub Stats
 
-```bash
-ng e2e
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xrmortal1212&show_icons=true&theme=radical" alt="Raman's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrmortal1212&theme=radical" alt="Raman's Streak" />
+</p>
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+---
 
-## Additional Resources
+## 🎓 Education & Experience
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- **Web Designer** @ Aptech Garden Center (2024 - Present)
+- **Python Developer** @ Noor College (2023 - 2024)
+- **Digital Artist** @ Self Study (2018 - 2020)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email:** [raman2409e@aptechgdn.net](mailto:raman2409e@aptechgdn.net)
+- 📍 **Location:** Karachi, Pakistan
+- 📱 **Phone:** +92 310-3371-549
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
