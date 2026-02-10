@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" data-beasties-container>
+
+<head><base href="/Portfolio/">
+  <meta charset="UTF-8">
+
+  <!-- Page Title -->
+  <title>Raman - Personal Portfolio & Resume</title>
+
+  <!-- Meta Tags -->
+  <meta name="description" content="Show yourself brightly with Braxton - unique and creative portfolio and resume template!">
+  <meta name="keywords" content="mix_design, resume, portfolio, personal page, cv, template, one page, responsive, html5, css3, creative, clean">
+  <meta name="author" content="mix_design">
+
+  <!-- Viewport Meta-->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!-- Template Favicon & Icons Start -->
+  <link rel="icon" href="./img/favicon/android-icon-512.png" sizes="any">
+  <link rel="icon" href="img/favicon/android-icon-512.png" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
+  <link rel="manifest" href="img/favicon/manifest.webmanifest">
+  <!-- Template Favicon & Icons End -->
+
+  <!-- Facebook Metadata Start -->
+  <meta property="og:image:height" content="1200">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:title" content="Braxton - Personal Portfolio &amp; Resume HTML Template">
+  <meta property="og:description" content="Show yourself brightly with Braxton - unique and creative portfolio and resume template!">
+  <meta property="og:url" content="https://mixdesign.club/themeforest/braxton">
+  <meta property="og:image" content="https://mixdesign.club/themeforest/braxton/img/favicon/og-image.jpg">
+  <!-- Facebook Metadata End -->
+
+  <!-- Template Styles Start -->
+  <link rel="stylesheet" href="css/loaders/loader.css">
+  <link rel="stylesheet" type="text/css" href="css/plugins.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <!-- Template Styles End -->
+
+  <!-- Custom Browser Color Start -->
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#dcdce7">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#111111">
+  <meta name="msapplication-navbutton-color" content="#111111">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!-- Custom Browser Color End -->
+<link rel="stylesheet" href="styles-5INURTSO.css"></head>
+
+<body>
+  <app-root></app-root>
+  
+ <!-- Load Scripts Start -->
+  <script src="js/libs.min.js"></script>
+  <script>
+    gsap.registerPlugin(ScrollTrigger);
+
+    const content = document.querySelector('body');
+    const imgLoad = imagesLoaded(content);
+    const svgBackground = document.querySelector("svg-background");
+
+    imgLoad.on('done', instance => {
+
+      document.getElementById("loaderContent").classList.add("fade-out");
+      setTimeout(() => {
+        document.getElementById("loader").classList.add("loaded");
+      }, 300);
+
+      gsap.set(".animate-headline", { y: 50, opacity: 0 });
+      ScrollTrigger.batch(".animate-headline", {
+        interval: 0.1,
+        batchMax: 4,
+        duration: 6,
+        onEnter: batch => gsap.to(batch, {
+          opacity: 1,
+          y: 0,
+          ease: 'sine',
+          stagger: { each: 0.15, grid: [1, 4] },
+          overwrite: true
+        }),
+        onLeave: batch => gsap.set(batch, { opacity: 1, y: 0, overwrite: true }),
+        onEnterBack: batch => gsap.to(batch, { opacity: 1, y: 0, stagger: 0.15, overwrite: true }),
+        onLeaveBack: batch => gsap.set(batch, { opacity: 0, y: 50, overwrite: true })
+      });
+
+    });
+  </script>
+  <script src="js/app.js"></script>
+  <script src="js/gallery-init.js"></script>
+  <!-- Load Scripts End -->
+
+<script src="main-LRE6F7QN.js" type="module"></script></body>
+
+</html>
