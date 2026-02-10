@@ -1,0 +1,101 @@
+{
+    "featuredProjects": [
+        {
+            "title": "Neon E-Commerce Hub",
+            "description": "A full-stack modern shopping platform with Stripe payment integration and real-time order tracking.",
+            "tags": [
+                "Angular",
+                "Node.js",
+                "MongoDB",
+                "Stripe"
+            ],
+            "image": "./img/1.PNG",
+            "link": "https://github.com/your-username/neon-shop",
+            "gallery": [
+                "./img/1.PNG",
+                "./img/1.PNG"
+            ]
+        },
+        {
+            "title": "Crypto AI Dashboard",
+            "description": "Real-time cryptocurrency analytics dashboard using AI to predict market trends with dark mode UI.",
+            "tags": [
+                "React",
+                "Python",
+                "TensorFlow",
+                "D3.js"
+            ],
+            "image": "./img/1.PNG",
+            "link": "https://github.com/your-username/crypto-ai",
+            "gallery": [
+                "./img/1.PNG",
+                "./img/1.PNG"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Historical Monuments",
+            "description": "This website is all about our hidden gems. Explore the architecture and history.",
+            "tags": [
+                "Web Design",
+                "HTML",
+                "CSS",
+                "JS"
+            ],
+            "image": "./img/1.PNG",
+            "link": "https://github.com/your-username/historical-monuments",
+            "gallery": [
+                "./img/1.PNG",
+                "./img/1.PNG",
+                "./img/1.PNG"
+            ]
+        },
+        {
+            "title": "EntertainX",
+            "description": "EntertainX is a website for entertainment, Anime, Movies and much more.",
+            "tags": [
+                "HTML",
+                "CSS",
+                "JS",
+                "JSON"
+            ],
+            "image": "./img/3.PNG",
+            "link": "https://github.com/your-username/entertainx",
+            "gallery": [
+                "./img/3.PNG",
+                "./img/3.PNG"
+            ]
+        },
+        {
+            "title": "Weather App",
+            "description": "It shows current weather conditions and forecasts for a given location using live API.",
+            "tags": [
+                "Weather API",
+                "HTML",
+                "CSS",
+                "JS"
+            ],
+            "image": "./img/5.PNG",
+            "link": "https://github.com/your-username/weather-app",
+            "gallery": [
+                "./img/5.PNG",
+                "./img/5.PNG"
+            ]
+        },
+        {
+            "title": "Pakistani With Bhoot",
+            "description": "I create digital art and graphics using various software tools like Adobe Animate.",
+            "tags": [
+                "Adobe Animate",
+                "Adobe After-Effects"
+            ],
+            "image": "./img/Capture4.PNG",
+            "link": "https://www.behance.net/your-portfolio",
+            "gallery": [
+                "./img/Capture4.PNG",
+                "./img/Capture4.PNG"
+            ]
+        }
+    ]
+}
